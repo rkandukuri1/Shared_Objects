@@ -1,0 +1,18 @@
+[
+    {
+      "id": "EMP001",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "jobTitle": "Software Engineer",
+      "department": "10"
+    },
+    {
+      "id": "EMP002",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "jobTitle": "Project Manager",
+      "department": "30"
+    }
+]

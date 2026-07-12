@@ -1,0 +1,9 @@
+Python is a high-level programing language 
+which is identified for English like syntax
+that increases readability. This simple and
+predictable syntax structure makes Python 
+the best choice for beginners as well as 
+professionals. Python requires much less 
+code compared to most other languages. 
+Python is an interpreted language. An interpreted 
+language executes code line by line at runtime.

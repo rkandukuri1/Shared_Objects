@@ -1,0 +1,15 @@
+STUD_ID,Name,Class,Marks,Gender,Date_Born
+101,John,Fifth,75,Male,6/12/2015
+102,Jane,Fourth,85,Female,
+103,Mike,,95,Male,3/15/2017
+104,Lisa,Second,90,Female,4/20/2018
+105,Tom,Fifth,70,Male,1/2/2015
+102,Jane,Fourth,85,Female,
+106,Sara,Third,,Female,9/25/2017
+107,Paul,Fourth,,Male,11/18/2016
+108,Anna,,88,Female,10/19/2018
+109,Kate,First,65,Female,12/28/2019
+110,Jim,Third,78,Male,9/16/2017
+111,,Fifth,70,Male,1/2/2015
+104,Lisa,Second,90,Female,4/20/2018
+109,Kate,First,65,Female,12/28/2019
